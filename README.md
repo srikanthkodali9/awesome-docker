@@ -273,7 +273,9 @@ by [@prologic][prologic]
 * [Get Docker up and running on the RaspberryPi in three steps](https://github.com/umiddelb/armhf/wiki/Get-Docker-up-and-running-on-the-RaspberryPi-%28ARMv6%29-in-three-steps)
 * [Installing, running, using Docker on armhf (ARMv7) devices](https://github.com/umiddelb/armhf/wiki/Installing,-running,-using-docker-on-armhf-(ARMv7)-devices)
 * [How to run 2500 webservers on a Raspberry Pi](http://blog.loof.fr/2015/10/how-to-run-2500-webservers-on-raspberry.html)
-
+* [Get Started with Docker 1.12 on Raspberry Pi](http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi)
+* [Things to know about Docker on Raspberry Pi](http://blog.alexellis.io/5-things-docker-rpi/)
+* [Build your PiZero Swarm with OTG networking](http://blog.alexellis.io/pizero-otg-swarm/)Setting up Docker on PiZero with OTG Networking.
 
 ## Other
 * Presentation: Docker and JBoss - the perfect combination
